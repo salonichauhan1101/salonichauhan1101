@@ -11,14 +11,20 @@ I am currently pursuing my Master of Science in Computer Science at Northeastern
 
 ## 💻 What I Do:
 ✔️ Develop scalable web applications with modern frameworks and cloud services
+
 ✔️ Design data-driven solutions using SQL, R, and Python
+
 ✔️ Automate cloud deployments & optimize performance with AWS & Azure
+
 ✔️ Build machine learning models and insightful data visualizations
 
 ## 📌 Notable Projects:
 Kanbas LMS – A full-fledged learning management system built with React, Node.js, and Redux
+
 Investment Portfolio Simulator – A Java-based application for simulating investment strategies
+
 Bird Strike Analysis – Data modeling and visualization with R and advanced ETL techniques
+
 House Price Prediction – A machine learning model for real estate price prediction
 
 📫 Let's Connect!
