@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Saloni Chandra Pal Singh Chauhan!
+🚀 Software Engineer | Data Analyst | Cloud Enthusiast
 
-<!--
-**salonichauhan1101/salonichauhan1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing my Master of Science in Computer Science at Northeastern University, Boston, with a strong passion for software development, data analytics, and cloud computing.
 
-Here are some ideas to get you started:
+🔹 Tech Stack: Java, Python, Shell Scripting, PL/SQL, R, JavaScript (ReactJS, NodeJS, Express), PHP, Redux, AWS, Azure
+🔹 Databases: MySQL, Oracle, SQLite, MongoDB
+🔹 Certifications: CISCO Certified Network Associate (CCNA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 What I Do:
+✔️ Develop scalable web applications with modern frameworks and cloud services
+✔️ Design data-driven solutions using SQL, R, and Python
+✔️ Automate cloud deployments & optimize performance with AWS & Azure
+✔️ Build machine learning models and insightful data visualizations
+
+📌 Notable Projects:
+Kanbas LMS – A full-fledged learning management system built with React, Node.js, and Redux
+Investment Portfolio Simulator – A Java-based application for simulating investment strategies
+Bird Strike Analysis – Data modeling and visualization with R and advanced ETL techniques
+House Price Prediction – A machine learning model for real estate price prediction
+
+📫 Let's Connect!
