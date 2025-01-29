@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Saloni Chandra Pal Singh Chauhan!
+## 👋 Hi, I'm Saloni Chauhan!
 🚀 Software Engineer | Data Analyst | Cloud Enthusiast
 
 I am currently pursuing my Master of Science in Computer Science at Northeastern University, Boston, with a strong passion for software development, data analytics, and cloud computing.
