@@ -4,7 +4,9 @@
 I am currently pursuing my Master of Science in Computer Science at Northeastern University, Boston, with a strong passion for software development, data analytics, and cloud computing.
 
 🔹 Tech Stack: Java, Python, Shell Scripting, PL/SQL, R, JavaScript (ReactJS, NodeJS, Express), PHP, Redux, AWS, Azure
+
 🔹 Databases: MySQL, Oracle, SQLite, MongoDB
+
 🔹 Certifications: CISCO Certified Network Associate (CCNA)
 
 ## 💻 What I Do:
