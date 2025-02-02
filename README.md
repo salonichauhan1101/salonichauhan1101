@@ -1,30 +1,77 @@
-## 👋 Hi, I'm Saloni Chauhan!
-🚀 Software Engineer | Data Analyst | Cloud Enthusiast
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Saloni%20Chauhan%20👋&fontSize=35&fontAlignY=40&desc=Software%20Engineer%20|%20MS%20CS%20at%20Northeastern%20University&descSize=20&descAlignY=55)
 
-I am currently pursuing my Master of Science in Computer Science at Northeastern University, Boston, with a strong passion for software development, data analytics, and cloud computing.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
-🔹 Tech Stack: Java, Python, Shell Scripting, PL/SQL, R, JavaScript (ReactJS, NodeJS, Express), PHP, Redux, AWS, Azure
+## 🚀 About Me
 
-🔹 Databases: MySQL, Oracle, SQLite, MongoDB
+🎯 **Software Engineer | Master of Science in CS at Northeastern University**  
+🔍 Actively **seeking internship & full-time opportunities** in **Software Development, Data Engineering, or Cloud Computing**  
+💡 Passionate about **Full Stack Development, AI/ML, and Cloud Technologies**  
+🌎 Currently based in **Boston, MA, USA**  
+📬 Reach me at **[chauhan.sal@northeastern.edu](mailto:chauhan.sal@northeastern.edu)**  
 
-🔹 Certifications: CISCO Certified Network Associate (CCNA)
+---
 
-## 💻 What I Do:
-✔️ Develop scalable web applications with modern frameworks and cloud services
+## 🏆 My Journey
 
-✔️ Design data-driven solutions using SQL, R, and Python
+👨‍🎓 **Education:**  
+- **MS in Computer Science** - Northeastern University, Boston _(2024 - Present)_  
+- **B.Tech in Computer Science & Engineering** - Mody University, India _(2016 - 2020)_
 
-✔️ Automate cloud deployments & optimize performance with AWS & Azure
+💼 **Past Roles:**  
+- **Application Development Analyst @ Accenture**  
+- **Software Development Intern @ Ultratech Cement Ltd**  
+  
 
-✔️ Build machine learning models and insightful data visualizations
+🛠 **Notable Work:** Developed a **LMS Platform**, **Investment Portfolio Simulator**, and **Bird Strike Analysis Tool**  
+🌟 **Future Goals:** To contribute to **cutting-edge tech** and build **impactful solutions**
 
-## 📌 Notable Projects:
-Kanbas LMS – A full-fledged learning management system built with React, Node.js, and Redux
+---
 
-Investment Portfolio Simulator – A Java-based application for simulating investment strategies
+## 🛠️ Tech Stack
 
-Bird Strike Analysis – Data modeling and visualization with R and advanced ETL techniques
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,react,html,css,js,nodejs,mysql,aws,docker" />
+</p>
 
-House Price Prediction – A machine learning model for real estate price prediction
+---
 
-📫 Let's Connect!
+## 🚀 Featured Projects
+
+🔹 **[Kanbas - Learning Management System](https://github.com/salonichauhan1101/Kanbas)** - Interactive platform for students and instructors with real-time collaboration.  
+🔹 **[Investment Portfolio Simulator](https://github.com/salonichauhan1101/investment-simulator)** - Java-based tool for managing financial portfolios.  
+🔹 **[House Price Prediction](https://github.com/salonichauhan1101/house-price-prediction)** - ML model for real estate price prediction.  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salonichauhan1101&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonichauhan1101&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+## 🌟 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saloni-chauhan1101/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/salonichauhan1101"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 🎉 Fun Quote
+
+> "The best way to predict the future is to invent it." — *Alan Kay*
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
