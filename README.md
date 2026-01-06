@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 🎯 **Software Engineer | Master of Science in CS at Northeastern University**  
-🔍 Actively **seeking internship & full-time opportunities** in **Software Development, Data Engineering, or Cloud Computing**  
+🔍 Actively **seeking Full-time opportunities** in **Software Development, Data Engineering, or Cloud Computing**  
 💡 Passionate about **Full Stack Development, AI/ML, and Cloud Technologies**  
 🌎 Currently based in **Boston, MA, USA**  
 📬 Reach me at **[chauhan.sal@northeastern.edu](mailto:chauhan.sal@northeastern.edu)**  
@@ -17,7 +17,7 @@
 ## 🏆 My Journey
 
 👨‍🎓 **Education:**  
-- **MS in Computer Science** - Northeastern University, Boston _(2024 - Present)_  
+- **MS in Computer Science** - Northeastern University, Boston _(2024 - 2025)_  
 - **B.Tech in Computer Science & Engineering** - Mody University, India _(2016 - 2020)_
 
 💼 **Past Roles:**  
