@@ -21,7 +21,7 @@
 - **B.Tech in Computer Science & Engineering** - Mody University, India _(2016 - 2020)_
 
 💼 **Past Roles:**  
-- **Application Development Analyst @ Accenture**  
+- **Software Engineer II @ Accenture**  
 - **Software Development Intern @ Ultratech Cement Ltd**  
   
 
