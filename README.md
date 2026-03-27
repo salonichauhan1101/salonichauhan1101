@@ -1,16 +1,25 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Saloni%20Chauhan%20👋&fontSize=35&fontAlignY=40&desc=Software%20Engineer%20|%20MS%20CS%20at%20Northeastern%20University&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Saloni%20Chauhan%20👋&fontSize=35&fontAlignY=40&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20MS%20CS%20at%20Northeastern%20University&descSize=20&descAlignY=55)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
+
 ## 🚀 About Me
 
-🎯 **Software Engineer | Master of Science in CS at Northeastern University**  
-🔍 Actively **seeking Full-time opportunities** in **Software Development, Data Engineering, or Cloud Computing**  
-💡 Passionate about **Full Stack Development, AI/ML, and Cloud Technologies**  
+🎯 **Software Engineer & Data Analyst | MS CS @ Northeastern University**  
+🔍 Actively seeking **Full-time roles** in **Software Development, Data Engineering, and Data Analytics**  
+
+💡 I build **scalable applications** and turn **data into actionable insights** using modern tools and cloud platforms.  
+
+🧠 Interests:  
+- Full Stack Development (React, Node.js, Spring Boot)  
+- Data Analytics & Visualization (SQL, Python, Tableau)  
+- Cloud & Distributed Systems (AWS, Azure)
+  
 🌎 Currently based in **Boston, MA, USA**  
-📬 Reach me at **[chauhan.sal@northeastern.edu](mailto:chauhan.sal@northeastern.edu)**  
+📬 Reach me at **[chauhan.sal@northeastern.edu](mailto:chauhan.sal@northeastern.edu)** 
+
 
 ---
 
@@ -30,11 +39,19 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,react,html,css,js,nodejs,mysql,aws,docker" />
-</p>
+💻 **Languages:**  
+Java | Python | SQL | JavaScript  
+
+📊 **Data & Analytics:**  
+Pandas | NumPy | Scikit-learn | Tableau | Power BI | Excel  
+
+🌐 **Web Development:**  
+React | Node.js | Spring Boot | HTML | CSS  
+
+☁️ **Cloud & DevOps:**  
+AWS | Azure | Docker | CI/CD | Git  
 
 ---
 
