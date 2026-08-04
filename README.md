@@ -1,25 +1,22 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Saloni%20Chauhan%20👋&fontSize=35&fontAlignY=40&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20MS%20CS%20at%20Northeastern%20University&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Saloni%20Chauhan%20👋&fontSize=35&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20Applied%20AI%20%7C%20MS%20CS%20at%20Northeastern%20University&descSize=20&descAlignY=55)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
-
 ## 🚀 About Me
 
-🎯 **Software Engineer & Data Analyst | MS CS @ Northeastern University**  
-🔍 Actively seeking **Full-time roles** in **Software Development, Data Engineering, and Data Analytics**  
-
-💡 I build **scalable applications** and turn **data into actionable insights** using modern tools and cloud platforms.  
+🎯 **Full Stack Software Engineer | Applied AI | MS CS @ Northeastern University**  
+🔍 Actively seeking **Full-time roles** in **Software Engineering and Applied AI**  
+💡 I build **scalable applications** and **AI-powered tools** using modern frameworks and cloud platforms.  
 
 🧠 Interests:  
-- Full Stack Development (React, Node.js, Spring Boot)  
-- Data Analytics & Visualization (SQL, Python, Tableau)  
+- Full Stack Development (React, Next.js, Node.js, Spring Boot)  
+- Applied AI (RAG pipelines, LLM integration, Computer Vision)  
 - Cloud & Distributed Systems (AWS, Azure)
-  
-🌎 Currently based in **Boston, MA, USA**  
-📬 Reach me at **[chauhan.sal@northeastern.edu](mailto:chauhan.sal@northeastern.edu)** 
 
+🌎 Currently based in **Boston, MA, USA**  
+📬 Reach me at **[chauhan.sal@northeastern.edu](mailto:chauhan.sal@northeastern.edu)**
 
 ---
 
@@ -31,35 +28,35 @@
 
 💼 **Past Roles:**  
 - **Software Engineer II @ Accenture**  
-- **Software Development Intern @ Ultratech Cement Ltd**  
-  
+- **Software Engineer @ Accenture**  
+- **Software Engineer Intern @ Ultratech Cement Ltd**
 
-🛠 **Notable Work:** Developed a **LMS Platform**, **Investment Portfolio Simulator**, and **Bird Strike Analysis Tool**  
-🌟 **Future Goals:** To contribute to **cutting-edge tech** and build **impactful solutions**
+🛠 **Notable Work:** Built an **AI Document Q&A Assistant (RAG)**, an **AI Fitness Coach**, and an **Employee Attrition Prediction model**  
+🌟 **Future Goals:** To contribute to **cutting-edge AI-driven tech** and build **impactful solutions**
 
 ---
 
 ## 🛠 Tech Stack
 
-💻 **Languages:**  
-Java | Python | SQL | JavaScript  
+💻 **Languages & Frameworks:**  
+Java (Spring Boot) | Python | SQL | JavaScript | React.js | Next.js | Node.js | HTML | CSS  
 
-📊 **Data & Analytics:**  
-Pandas | NumPy | Scikit-learn | Tableau | Power BI | Excel  
-
-🌐 **Web Development:**  
-React | Node.js | Spring Boot | HTML | CSS  
+🤖 **AI/ML & LLM:**  
+Gemini API | RAG Pipelines | Vector Embeddings | Prompt Engineering | Computer Vision  
 
 ☁️ **Cloud & DevOps:**  
-AWS | Azure | Docker | CI/CD | Git  
+AWS | Azure | Docker | Kubernetes | CI/CD | Terraform | Git  
+
+🗄 **Database & Testing:**  
+MongoDB | MySQL | Supabase | JUnit | Mockito | Selenium
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **[Kanbas - Learning Management System](https://github.com/salonichauhan1101/Kanbas)** - Interactive platform for students and instructors with real-time collaboration.  
-🔹 **[Investment Portfolio Simulator](https://github.com/salonichauhan1101/investment-simulator)** - Java-based tool for managing financial portfolios.  
-🔹 **[House Price Prediction](https://github.com/salonichauhan1101/house-price-prediction)** - ML model for real estate price prediction.  
+🔹 **[AI Document Q&A Assistant (RAG)](https://github.com/salonichauhan1101/rag-doc-qa)** - RAG pipeline using Next.js, Gemini, and Supabase pgvector to answer questions from PDFs with source-cited responses.  
+🔹 **[AI Fitness Coach](https://github.com/salonichauhan1101/ai-fitness-coach)** - Multimodal AI app estimating meal calories from photos and giving live exercise form feedback via pose tracking.  
+🔹 **[Employee Attrition Prediction](https://github.com/salonichauhan1101/Employee_Attrition_Prediction)** - Random Forest/XGBoost model achieving 92% prediction accuracy.
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
